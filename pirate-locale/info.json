@@ -1,0 +1,8 @@
+{
+	"name": "pirate-locale",
+	"title": "Pirate Speak",
+	"description": "Make Factorio have the Pirate Speak locale like Minecraft",
+	"version": "0.1.0",
+	"author": "",
+	"factorio_version": "1.1"
+}
